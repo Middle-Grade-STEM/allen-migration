@@ -1,0 +1,59 @@
+.head {
+  background: #ebc498;
+  border: solid #ebc498;
+  margin: #ebc498;
+  padding: #ebc498;
+  margin-bottom: 30px
+}
+
+.navbar {
+
+}
+
+.navbarPMA {
+  padding-left: 95px;
+}
+
+.navbarJPT {
+  padding-left: 20px;
+}
+
+.navbar a {
+  color: #573e22;
+  width: 16.66%;
+  float: left;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+  color: #805a30;
+}
+
+.navbar a.active {
+  color: #9c662a;
+}
+
+.navbarS {
+  padding-right: 20px;
+}
+
+.navbarJPT2 {
+  padding-right: 95px;
+}
+
+.information {
+  border: solid #452500;
+  background: #ffe3c2;
+  padding-left: 10px;
+  margin-top: 30px
+}
+
+.information a {
+  color: blue
+}
+
+.someotherrandomthing {
+  margin-bottom: 30px;
+}
